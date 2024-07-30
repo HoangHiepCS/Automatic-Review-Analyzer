@@ -9,8 +9,8 @@ Below are two example entries from the dataset. Each entry consists of the revie
 | Review	| label|
 |-------|-------|
 |Nasty No flavor. The candy is just red, No flavor. Just plan and chewy. I would never buy them again|	−1|
-|YUMMY! You would never guess that they're sugar-free and it's so great that you can eat them pretty much guilt free! i was so impressed that i've ordered some for myself (w dark chocolate) to take to the office. These are just EXCELLENT!	|1|
-|-------|-------|
+|YUMMY! You would never guess that they're sugar-free and it's so great that you can eat them pretty much guilt free! i was so impressed that i've ordered some for myself (w dark chocolate) to take to the office. These are just EXCELLENT!	|1
+
 In order to automatically analyze reviews, I did the following tasks:
 
 Considered three classifiers: the perceptron algorithm, the average perceptron algorithm, and the Pegasos algorithm.
